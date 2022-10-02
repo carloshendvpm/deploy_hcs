@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+.btn-active {
+  background-color: #F78E21;
+  border: none;
+  width: 428px;
+  height: 50px;
+  border-radius: 32px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn-select {
+  background-color: #ccc;
+  border: none;
+  width: 428px;
+  height: 50px;
+  border-radius: 32px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  cursor: not-allowed;
+}

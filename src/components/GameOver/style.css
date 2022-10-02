@@ -1,0 +1,33 @@
+#gameover {
+    width: 70%;
+    height: 560px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #595959;
+    border-radius: 50px;
+}
+
+#gameover h2 {
+    margin-bottom: 100px;
+}
+.score {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn-redo {
+    margin-top: 40px;
+}
+button {
+    margin-bottom: 30px;
+}
+.hits {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.miss {
+    font-size: 2.4rem;
+}
