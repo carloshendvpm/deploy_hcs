@@ -29,9 +29,12 @@
     font-size: 1.2rem;
     
   }
-@media(max-width: 500px){
+@media(max-width: 530px){
     #question button {
         font-size: 0.6rem;
+    }
+    .wrapper {
+      font-size: 70%;
     }
 }
 #options-container {

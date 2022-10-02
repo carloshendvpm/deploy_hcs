@@ -34,3 +34,8 @@
   .hide {
     display: none;
   }
+  @media(max-width:500px) {
+    .option {
+      font-size: 80%;
+    }
+  }
