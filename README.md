@@ -1,10 +1,17 @@
-## Here comes the sun
-<div align="center">
+# Here comes the sun
+
+![GitHub repo size](https://img.shields.io/github/repo-size/carloshendvpm/deploy_hcs?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/carloshendvpm/deploy_hcs?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/carloshendvpm/deploy_hcs?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/carloshendvpm/deploy_hcs?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/carloshendvpm/deploy_hcs?style=for-the-badge)
 
 <hr>
-  
-Here comes the sun, is, in fact, the personification of the coming sun and which, in other words, is the link between science education and early childhood education in Brazil, bringing gamification as a way of introducing non-accessible knowledge based on the democratization of science and education.
-	</div>
+ 
+<img src="https://imgur.com/by6q4Fr" alt="exemplo imagem">
+
+
+> Here comes the sun, is, in fact, the personification of the coming sun and which, in other words, is the link between science education and early childhood education in Brazil, bringing gamification as a way of introducing non-accessible knowledge based on the democratization of science and education.
 
 
 <h2 align="center">Nasa Space Challenges in Recife</h2>
